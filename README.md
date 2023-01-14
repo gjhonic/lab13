@@ -3,7 +3,7 @@
 **Install Projects**
 
 ```bash
-git clone git@github.com:gjhonic/lab12.git
+git clone git@github.com:gjhonic/lab13.git
 ```
 
 **Install Ngnix**
