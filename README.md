@@ -25,8 +25,8 @@ sudo service nginx start
 **launch**
 
 ```bash
-$ cd lab13
-$ cargo run
+cd lab13
+cargo run
 ```
 
 **Test**
